@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="icon" href="img/favicon.png" type="image/png">
+        <title>Occupy Business</title>
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="vendors/linericon/style.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="vendors/lightbox/simpleLightbox.css">
+        <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+        <link rel="stylesheet" href="vendors/animate-css/animate.css">
+        <!-- main css -->
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+    </head>
+	<style>
+	#headmove
+	{position:relative;
+
+left:34%;}
+	
+	#move
+	{
+	position:relative;
+
+left:35%;}
+</style>
+    <body>
+        
+        <!--================Header Menu Area =================-->
+        <header class="header_area">
+            <div class="main_menu">
+            	<nav class="navbar navbar-expand-lg navbar-light">
+					<div class="container box_1620">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+							<ul class="nav navbar-nav menu_nav justify-content-center">
+								<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li> 
+								<li class="nav-item"><a class="nav-link" href="about-us.html">About Us</a></li> 
+								<li class="nav-item submenu dropdown">
+									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Verticals</a>
+									<ul class="dropdown-menu">
+										<li class="nav-item"><a class="nav-link" href="portfolio.html">HR Consuting</a>
+										<li class="nav-item"><a class="nav-link" href="portfolio-details.html">Staffing Solutions</a>
+										<li class="nav-item"><a class="nav-link" href="elements.html">Learning Solutions</a></li>
+									</ul>
+								</li> 
+								<li class="nav-item submenu dropdown">
+									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Careers With Us</a>
+									<!--<ul class="dropdown-menu">
+										<li class="nav-item"><a class="nav-link" href="portfolio.html">Portfolio</a>
+										<li class="nav-item"><a class="nav-link" href="portfolio-details.html">Portfolio Details</a>
+										<li class="nav-item"><a class="nav-link" href="elements.html">Elements</a></li>
+									</ul>-->
+								</li> 
+								<li class="nav-item submenu dropdown">
+									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Associates</a>
+									<!--<ul class="dropdown-menu">
+										<li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+										<li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>
+									</ul>-->
+								</li> 
+								<li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+							</ul>
+							<ul class="nav navbar-nav navbar-right">
+								<li class="nav-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li class="nav-item"><a href="#"><i class="fa fa-behance"></i></a></li>
+								<li class="nav-item"><a href="#" class="search"><i class="lnr lnr-magnifier"></i></a></li>
+							</ul>
+						</div> 
+					</div>
+            	</nav>
+            </div>
+        </header>
+        <!--================Header Menu Area =================-->
+		
+		
+		
+        <!--================Home Banner Area =================-->
+        <section class="banner_area">
+            <div class="banner_inner d-flex align-items-center">
+				<div class="container">
+					<div class="banner_content">
+						<h2>Learning Solutions</h2>
+						<div class="page_link">
+							<a href="index.html">Home</a>
+							<a href="elements.html">Learning Solutions</a>
+						</div>
+					</div>
+				</div>
+            </div>
+        </section>
+        <!--================End Home Banner Area =================-->
+        
+        <!--================Training and Development =================-->
+        <section class="mission_area">
+			<div class="row m0">
+				<div class="col-lg-6 p0">
+					<div class="left_img"><img src="D:/learning.jpg" alt="" ;
+></div>
+				</div>
+				<div class="col-lg-6 p0">
+					<div <!--class="mission_slider owl-carousel"--> 
+						<div class="item">
+							<div class="mission_text">
+								<h3 id=headmove>Training & Development</h3>
+								<p id=move align="left">Top performing organizations are in a constant 
+								need to build highly motivated and a self directed team of professionals.
+								We at TCA Consulting provide a stack of training solutions that can help 
+								your organization build these competencies.
+								We achieve this through specific behavioral and functional training interventions. 
+								Our training programs offer value by helping individuals apply concepts to complex 
+								business situations, hence increasing productivity and efficiencies at work. Our time
+								tested training methodologies are based on the principles of adult learning.
+								TCA Consulting helps individuals align themselves to the organisation’s goals & acquire 
+								skills to augment their effectiveness, thus improving bottomlines and enhancing their career.
+								Our team of trainers is a prominent mix of academicians, industry experts and widely experienced
+								‘Facilitatosrs’who provide our clients with cutting edge services and solutions.
+								</p>
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+        </section>
+		
+        <!--================End Training and Development=================-->
+        
+		<!--================Approach =================-->
+        <section class="success_area">
+        	<div class="row m0">
+        		<div class="col-lg-6 p0">
+        			<div class="mission_text">
+						<h3>Training Approach</h3>
+						<p align="left">	
+						<b>Identification</b><br/>
+						We look at training need identification as the most important
+						part of the Client Engagement Process. Our advisors and research
+						team through its expert panel of consultants, develops an effective
+						and efficient TNA (Training Need Analysis) process. We invest considerable
+						time and effort in understanding and identification of learners’ needs and
+						defining alignment between training needs and business objectives. Varying 
+						with your organizational needs, budget and time factor, we adopt different
+						tools like questionnaires, focus group techniques, observation tools, data 
+						analysis or a combination of these.
+
+						</p>
+					</div>
+        		</div>
+        		<div class="col-lg-6 p0">
+        			<div class="success_img">
+        				<img src="D:/learning2.jpg" alt="">
+        			</div>
+        		</div>
+        	</div>
+        	
+        </section>
+        <!--================End Approach =================-->
+		
+		 <!--================Approach2 =================-->
+        <section class="mission_area">
+			<div class="row m0">
+				<div class="col-lg-6 p0">
+					<div class="left_img"><img src="D:/learning3.jpg" alt="" ;
+></div>
+				</div>
+				<div class="col-lg-6 p0">
+					<div <!--class="mission_slider owl-carousel"--> 
+						<div class="item">
+							<div class="mission_text">
+								<h3 id=headmove>Training Approach</h3>
+								<p id=move align="left"><b>Implementation</b><br/>          
+								At TCA we believe in the experiential training approach.
+								We seek to encourage autonomy and empowerment in individuals 
+								through case studies, assignments, role-plays, games and exercises,
+								simulations and ‘Action Plans’ in order to ensure practical and measured 
+								applications at the workplace.</p>
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+        </section>
+		
+        <!--================End Approach2=================-->
+        
+		<!--================Approach3 =================-->
+        <section class="success_area">
+        	<div class="row m0">
+        		<div class="col-lg-6 p0">
+        			<div class="mission_text">
+						<h3>Training Approach</h3>
+						<p align="left">	
+						<b>Value Creation</b><br/>
+						This is the most significant aspect of training wherein 
+						the actual benefit from the training is realized. We employ 
+						tools like questionnaires, 360° Feedback and collective data
+						analysis to evaluate the training impact at 3 different levels:
+						Reaction, Learning, and Action. This helps the organization realize
+						the efficacy of the training intervention. These tools help the organization 
+						evaluate and retain individuals based on their core competencies
+						</p>
+					</div>
+        		</div>
+        		<div class="col-lg-6 p0">
+        			<div class="success_img">
+        				<img src="D:/learning4.jpg" alt="">
+        			</div>
+        		</div>
+        	</div>
+        	
+        </section>
+        <!--================End Approach3 =================-->
+		
+		 <!--================Training Roadmap =================-->
+        <section class="mission_area">
+			<div class="row m0">
+				<div class="col-lg-6 p0">
+					<div class="left_img"><img src="D:/learning5.jpg" alt="" ;
+></div>
+				</div>
+				<div class="col-lg-6 p0">
+					<div <!--class="mission_slider owl-carousel"--> 
+						<div class="item">
+							<div class="mission_text">
+								<h3 id=headmove>Training Roadmap</h3>
+								<p id=move align="left">Our training process is an iterative one, in which we
+								constantly evolve for our clients. As businesses are dynamic so are the needs 
+								of the intervention. At TCA Consulting, our thrust is on offering that dynamism 
+								to your organization. Hence a high level of customization is done starting from 
+								the needs assessment to the delivery. This process involves all levels of our training 
+								research team giving you the highest value for your requirements.
+								TCA Training Solutions follows a unique approach to training. We see training from 
+								the perspective of a business case and try to get to the root of the problem. The 
+								focus is on the development of a strategic direction for the client. Once this direction 
+								is determined, the rest falls into place.
+								This roadmap enables TCA Training Solutions to provide a holistic, comprehensive solution
+								that takes into account the client’s unique culture, background, etc.
+
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+        </section>
+		
+        <!--================End Training Roadmap=================-->
+        
+		<!--================Instruction Design =================-->
+        <section class="success_area">
+        	<div class="row m0">
+        		<div class="col-lg-6 p0">
+        			<div class="mission_text">
+						<h3>Instruction Design</h3>
+						<p align="left">	
+						Our training methodology ensures that the module – it’s objectives,
+						methods and materials – take into account the unique experiences of the
+						participants. In this way learning is participant-centered, with the 
+						trainer assuming the role of a ‘facilitator’– someone who guides and supports 
+						the participants through their learning experiences.
+						</p>
+					</div>
+        		</div>
+        		<div class="col-lg-6 p0">
+        			<div class="success_img">
+        				<img src="D:/learning6.jpg" alt="">
+        			</div>
+        		</div>
+        	</div>
+        	
+        </section>
+        <!--================End Instruction Design =================-->
+		
+		<!--================Our Expertise =================-->
+        <section class="mission_area">
+			<div class="row m0">
+				<div class="col-lg-6 p0">
+					<div class="left_img"><img src="D:/learning7.jpg" alt="" ;></div>
+				</div>
+				<div class="col-lg-6 p0">
+					<div <!--class="mission_slider owl-carousel"--> 
+						<div class="item">
+							<div class="mission_text">
+								<h3 id=headmove>Our Expertise</h3>
+								<p id=move align="left"><b>PEOPLE DEVELOPMENT:</b><br/>
+								Cross Culture Management<br/>
+								Emotional Intelligence<br/>
+								Creativity & Innovation<br/>
+								Change Management<br/>
+								Workforce  Management<br/>
+								Conflict Resolution<br/>
+								Problem Solving<br/>
+								Decision Making<br/>
+								Ethics,Value and Vision<br/>
+								Managerial Effectiveness<br/>
+								Lateral Thinking<br/>
+								Innovative Strategic Planning<br/>
+								Strategic Business Thinking<br/>
+
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+        </section>
+		
+        <!--================End Training Roadmap=================
+		
+		
+	
+	
+	
+	
+	
+
+
+
+
+-->
+		<!--================Our Expertise3 =================-->
+        <section class="success_area">
+        	<div class="row m0">
+        		<div class="col-lg-6 p0">
+        			<div class="mission_text">
+						<h3>Our Expertise</h3>
+						<p align="left">	
+						<b>Management Development Program:</b><br/>
+						The Leadership Boot Camp<br/>
+						Coaching and Mentoring Skills<br/>
+						Adapting To and Leading Change<br/>
+						Leading High Performance<br/>
+						Leadership Effectiveness<br/>
+						Emotional Intelligence<br/>
+						Supervisory Skills<br/>
+						Transformational Leadership<br/>
+						Managing Organisational Change<br/>
+						</p>
+					</div>
+        		</div>
+        		<div class="col-lg-6 p0">
+        			<div class="success_img">
+        				<img src="D:/learning8.jpg" alt="">
+        			</div>
+        		</div>
+        	</div>
+        	
+        </section>
+        <!--================End Our Expertise3 =================-->
+		
+		<!--================Our Expertise4 =================-->
+        <section class="mission_area">
+			<div class="row m0">
+				<div class="col-lg-6 p0">
+					<div class="left_img"><img src="D:/learning9.jpg" alt="" ;></div>
+				</div>
+				<div class="col-lg-6 p0">
+					<div <!--class="mission_slider owl-carousel"--> 
+						<div class="item">
+							<div class="mission_text">
+								<h3 id=headmove>Our Expertise</h3>
+								<p id=move align="left"><b>HUMAN RESOURCE:</b><br/>
+								Basic HR for Non-HR  People<br/>
+								Interviewing Skills<br/>
+								Train the Trainer<br/>
+								Organisational Branding to attract the Talent<br/><br/>
+								<b>OUTBOUND PROGRAMS</b><br/>
+								Building High Performance Teams<br/>
+								Creating Team Synergy<br/>
+								Team Effectiveness<br/>
+								Interpersonal Effectiveness<br/>
+								<b>FINANCE FOR NON FINANCE</b><br/>
+								Trust and Fostering Collaboration<br/><br/>
+								Basic  Budgeting for Non - Finance Managers<br/>
+								Finance for Non Finance Executives<br/>
+								Strategies for cost reduction Taxation
+
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+        </section>
+		
+        <!--================Our Expertise4=======================-->
+		
+		
+		  <!--================ start footer Area  =================-->	
+        <footer class="footer-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3  col-md-6 col-sm-6">
+                        <div class="single-footer-widget">
+                            <h6 class="footer_title">About TCA</h6>
+                            <p>Tenkun Consulting Associates was incorporated in Bangalore as its Head office. The company has since grown to be a leading provider of talent
+								management solutions with service offerings that include HR Management Consulting, Executive Search, Executive Selection, Staff Leasing,
+									Recruitment Process Outsourcing and Learning and Development. Our &quot;The Best Fit&quot; methodology has attracted many clients, which include MNCs
+									from various industries.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="single-footer-widget">
+                            <h6 class="footer_title">Navigation Links</h6>
+                            <div class="row">
+                                <div class="col-4">
+                                    <ul class="list">
+                                        <li><a href="#">Home</a></li>
+                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="#">HR Consulting</a></li>
+                                        <li><a href="#">Staffing Solutions</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-4">
+                                    <ul class="list">
+                                        <li><a href="#">Learning Solutions</a></li>
+                                        <li><a href="#">Careers With Us</a></li>
+                                        <li><a href="#">Our Associates</a></li>
+                                        <li><a href="#">Contact Us	</a></li>
+                                    </ul>
+                                </div>										
+                            </div>							
+                        </div>
+                    </div>							
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="single-footer-widget">
+                            <h6 class="footer_title">Newsletter</h6>
+                            <p>For business professionals caught between high OEM price and mediocre print and graphic output, </p>		
+                            <div id="mc_embed_signup">
+                                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
+                                    <div class="input-group d-flex flex-row">
+                                        <input name="EMAIL" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
+                                        <button class="btn sub-btn"><span class="lnr lnr-location"></span></button>		
+                                    </div>									
+                                    <div class="mt-10 info"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="single-footer-widget instafeed">
+                            <h6 class="footer_title">InstaFeed</h6>
+                            <ul class="list instafeed d-flex flex-wrap">
+                                <li><img src="img/instagram/Image-01.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-02.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-03.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-04.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-05.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-06.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-07.jpg" alt=""></li>
+                                <li><img src="img/instagram/Image-08.jpg" alt=""></li>
+                            </ul>
+                        </div>
+                    </div>-->						
+                </div>
+                
+            </div>
+            <div class="border_line"></div>
+			<div class="container">
+				<div class="row footer-bottom d-flex justify-content-between align-items-center">
+                    <p class="col-lg-8 col-md-8 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    <div class="col-lg-4 col-md-4 footer-social">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-behance"></i></a>
+                    </div>
+                </div>
+			</div>
+        </footer>
+		<!--================ End footer Area  =================-->
+        
+        
+        
+        
+        
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <script src="js/popper.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/stellar.js"></script>
+        <script src="vendors/lightbox/simpleLightbox.min.js"></script>
+        <script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
+        <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+        <script src="vendors/isotope/isotope-min.js"></script>
+        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+        <script src="js/jquery.ajaxchimp.min.js"></script>
+        <script src="vendors/counter-up/jquery.waypoints.min.js"></script>
+        <script src="vendors/counter-up/jquery.counterup.js"></script>
+        <script src="js/mail-script.js"></script>
+        <script src="vendors/popup/jquery.magnific-popup.min.js"></script>
+        <script src="vendors/swiper/js/swiper.min.js"></script>
+        <script src="js/theme.js"></script>
+    </body>
+</html>
